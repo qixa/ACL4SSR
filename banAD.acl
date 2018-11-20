@@ -21,6 +21,23 @@
 [proxy_all]
 # 默认代理
 
+(^|\.)upupoo\.net$
+(^|\.)dmm\.com$
+(^|\.)dmm\.co.jp$
+(^|\.)cccat\.cc$
+(^|\.)cccat\.club$
+(^|\.)ppy\.sh$
+(^|\.)steamcommunity\.com$
+(^|\.)steampowered\.com$
+(^|\.)github\.com$
+(^|\.)t\.co$
+(^|\.)secxss\.cn$
+(^|\.)vnet\.link$
+(^|\.)vnet\.one$
+(^|\.)xhtml\.love$
+(^|\.)prpy\.me$
+(^|\.)cordcloud\.me$
+
 #**********************************************************************
 [outbound_block_list]
 # 禁止访问列表
