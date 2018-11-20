@@ -37,6 +37,10 @@
 (^|\.)xhtml\.love$
 (^|\.)prpy\.me$
 (^|\.)cordcloud\.me$
+(^|\.)bilibili\.com$
+(^|\.)hdslb\.com$
+(^|\.)acgvideo\.com$
+(^|\.)acg\.tv$
 
 #**********************************************************************
 [outbound_block_list]
